@@ -77,7 +77,7 @@ function detectBrowserLang(): Lang {
 }
 
 function Logo() {
-  return <a href="#top" className="logo" aria-label="FOXTECH home"><img className="foxmark" src="/foxtech-logo.png" alt="" /><span>FOXTECH<small>SLU</small></span></a>;
+  return <a href="#top" className="logo" aria-label="FOXTECH home"><img className="foxmark" src="/foxtech-logo.png" alt="FOXTECH" /></a>;
 }
 
 export default function Home() {
