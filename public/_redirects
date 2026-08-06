@@ -1,0 +1,2 @@
+# Netlify SPA fallback (not needed for static export, but kept for compatibility)
+/*    /index.html   200
